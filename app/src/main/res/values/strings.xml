@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Android Activity</string>
+    <string name="tvSaludo">Mi primera app interactiva</string>
+    <string name="tvPresentacion">Esta es mi tarea de progra</string>
+    <string name="myEditText">Contraseña</string>
+    <string name="editTextEmail">Ingrese su email</string>
+    <string name="btnVolver">Volver</string>
+    <string name="imgJava">Java</string>
+
+    <string name="tg_on">Modo Oscuro</string>
+    <string name="tg_off">Modo Claro</string>
+    <string name="btFloat">Agregar</string>
+    <string name="imgBotton">Camara</string>
+    <string name="btnSaludo">Saludo</string>
+    <string name="btnRegresar">Regresar</string>
+
+    <string name="txtMenu">Bienvenidos</string>
+    <string name="tvAct1">TextActivity</string>
+    <string name="tvAct2">ButtonActivity</string>
+    <string name="tvAct3">WidgetsActivity</string>
+    <string name="tvAct4">ImageActivity</string>
+    <string name="btnAct1">Activity 1</string>
+    <string name="btnAct2">Activity 2</string>
+    <string name="btnAct3">Activity 3</string>
+    <string name="btnAct4">Activity 4</string>
+
+
+    <string name="tvTerminos">Acepto</string>
+    <string name="chAcepto">Acepto los terminos y condiciones</string>
+    <string name="rdButton1">Masculino</string>
+    <string name="rdButton2">Femenino</string>
+    <string name="sw1">NOTIFICACIONES</string>
+    <string name="seeBrillo">Brillo</string>
+    <string name="btnAtras">Regresar</string>
+
+
+    <string name="tvExpresion">Saludos</string>
+    <string name="btnAnterior">Volver</string>
+</resources>
